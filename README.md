@@ -3,6 +3,7 @@
 # Dependency: Cytoscape (http://www.cytoscape.org)
 # Input: GML (network)
 # Output: none (Cytoscape visualizes network)
+# Tested with: PluMA 1.0, Cytoscape 3.2.1 and Perl 5.18
 
 PluMA plugin in Perl to run Cytoscape (Shannon et al, 2003) on an input network file.
 Note this is different from the PluMA Cytoscape plugin, which expects a text file with
